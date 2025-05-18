@@ -1,0 +1,4 @@
+import os
+
+ALPHA_VANTAGE_API_KEY = os.getenv("ALPHA_VANTAGE_API_KEY")
+QUANDL_API_KEY = os.getenv("QUANDL_API_KEY")

@@ -1,0 +1,9 @@
+yfinance
+alpha_vantage
+quandl
+statsmodels
+scikit-learn
+tensorflow
+matplotlib
+pandas
+numpy
